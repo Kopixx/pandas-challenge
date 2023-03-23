@@ -1,0 +1,6 @@
+school_name,School Type,Total Students,Total School Budget,Per Student Budget,Average Maths Score,Average Reading Score,% Passing Maths,% Passing Reading,% Overall Passing
+Hernandez High School,Government,4635,"$3,022,020.00",$652.00,68.87,69.19,80.95%,81.88%,66.36%
+Huang High School,Government,2917,"$1,910,635.00",$655.00,68.94,68.91,81.69%,81.45%,66.71%
+Johnson High School,Government,4761,"$3,094,650.00",$650.00,68.84,69.04,82.06%,81.98%,67.19%
+Wilson High School,Independent,2283,"$1,319,574.00",$578.00,69.17,68.88,82.79%,81.3%,67.46%
+Ford High School,Government,2739,"$1,763,916.00",$644.00,69.09,69.57,82.44%,82.22%,67.47%
